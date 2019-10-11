@@ -1,11 +1,12 @@
 package factory;
 
+import factory.abstracts.AbstractFactory;
 import factory.abstracts.Sedans;
 import factory.abstracts.Trucks;
 import factory.models.DodgeChallanger;
 import factory.models.DodgeRam1500;
 
-public class FactoryDodge implements Factory {
+public class FactoryDodge extends AbstractFactory {
 
 	@Override
 	public Sedans makeSedan(int wheel, boolean diesel, boolean coupe) {
