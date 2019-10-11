@@ -9,7 +9,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		Factory factoryDodge = new FactoryDodge();
-		Factory factoryFord = new FactoryFord();
+		Factory factoryFord = new FactoryFord(); 
 
 		Sedans makeSedan1 = factoryDodge.makeSedan(4, false, false);
 		Trucks makeTruck1 = factoryDodge.makeTruck(8, true, 3);
