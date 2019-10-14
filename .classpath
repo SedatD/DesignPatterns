@@ -7,5 +7,6 @@
 	<classpathentry kind="src" path="ObserverPattern"/>
 	<classpathentry kind="src" path="AbstractFactoryPattern"/>
 	<classpathentry kind="src" path="SingletonPattern"/>
+	<classpathentry kind="src" path="CommandPattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
