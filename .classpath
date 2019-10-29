@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="SingletonPattern"/>
 	<classpathentry kind="src" path="CommandPattern"/>
 	<classpathentry kind="src" path="AdapterPattern"/>
+	<classpathentry kind="src" path="StatePattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
